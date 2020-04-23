@@ -1,0 +1,6 @@
+D:\мсзі\dz2\dz2\bin\Debug\dz2.exe.config
+D:\мсзі\dz2\dz2\bin\Debug\dz2.exe
+D:\мсзі\dz2\dz2\bin\Debug\dz2.pdb
+D:\мсзі\dz2\dz2\obj\Debug\dz2.csprojResolveAssemblyReference.cache
+D:\мсзі\dz2\dz2\obj\Debug\dz2.exe
+D:\мсзі\dz2\dz2\obj\Debug\dz2.pdb
